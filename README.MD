@@ -1,3 +1,7 @@
+Live demo https://jhonatanmontanheiro.github.io/dist/
+
+Arte criada por https://momen-games.itch.io/happy-la-v2-ts
+
 # How to run
 
 `npm install` then `npm run dev`
