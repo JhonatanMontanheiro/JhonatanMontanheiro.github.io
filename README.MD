@@ -1,4 +1,4 @@
-Live demo https://jhonatanmontanheiro.github.io/dist/
+Live demo https://jhonatanmontanheiro.github.io/dist/ (mobile-ready)
 
 Arte criada por https://momen-games.itch.io/happy-la-v2-ts
 
